@@ -1,1 +1,0 @@
-# ReactNative-CollaborativeFiltering-WIS
